@@ -8,8 +8,8 @@
     font-display: swap;
 }
 @font-face {
- font-family: 'AurulentSansMono';
- src: url('AurulentSansMono.woff') format('woff'); 
+ font-family: 'Candarai';
+ src: url('Candarai.ttf') format('truetype'); 
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -36,7 +36,7 @@ text-align: center;
 color: white;
 margin: 0;
 overflow: hidden;
-font-family: 'AurulentSansMono';
+font-family: 'Candarai';
 font-size: 0.6vw;
 animation: textshow 2s ease 1s;
 animation-fill-mode: forwards;
@@ -87,7 +87,7 @@ animation-fill-mode: forwards;
 
 #msgs2 {
 display: inline-block;
-font-family: 'AurulentSansMono';
+font-family: 'Candarai';
 font-size: 4vw;
 text-shadow: 1px 1px 1px black;
 width: 100%;
@@ -133,7 +133,7 @@ left:50%;
 }  
 
 #marquee {
-font-family: 'AurulentSansMono';
+font-family: 'Candarai';
 font-size: 32px;
 width: 2300px;
 text-align: left;
@@ -183,7 +183,7 @@ text-align: center;
 color: white;
 margin: 0;
 overflow: hidden;
-font-family: 'AurulentSansMono';
+font-family: 'Candarai';
 font-size: 0.6vw;
 animation: textshow 2s ease 1s;
 animation-fill-mode: forwards;
@@ -234,7 +234,7 @@ animation-fill-mode: forwards;
 
 #msgs2 {
 display: inline-block;
-font-family: 'AurulentSansMono';
+font-family: 'Candarai';
 font-size: 3vw;
 text-shadow: 1px 1px 1px black;
 width: 100%;
@@ -282,7 +282,7 @@ transform: translate(-50%, 0);
 } 
 
 #marquee {
-font-family: 'AurulentSansMono';
+font-family: 'Candarai';
 font-size: 32px;
 width: 2300px;
 text-align: left;
